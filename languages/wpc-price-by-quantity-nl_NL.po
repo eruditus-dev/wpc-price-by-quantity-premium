@@ -1,0 +1,184 @@
+# Copyright (C) 2022 WPClever
+# This file is distributed under the same license as the WPC Price by Quantity for WooCommerce (Premium) plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Price by Quantity for WooCommerce (Premium) 1.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-price-by-"
+"quantity-premium\n"
+"Last-Translator: admin\n"
+"Language-Team: Nederlands\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-08-31T07:43:40+00:00\n"
+"PO-Revision-Date: 2022-09-23 11:08+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: wpc-price-by-quantity\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2"
+
+#: includes/templates/role-price.php:48
+msgid "+ New tier"
+msgstr "+ Nieuwe staffel"
+
+#: includes/templates/add-new.php:13
+msgid "+ Setup for role"
+msgstr "+ Instellen voor staffel rij"
+
+#: includes/class-backend.php:195
+msgid "Above the add to cart button"
+msgstr "Boven de \"In winkelwagen\" knop"
+
+#: includes/class-backend.php:218
+msgid "Active background color"
+msgstr "Actief achtergrond kleur"
+
+#: includes/class-backend.php:208
+msgid "Active color"
+msgstr "Actieve kleur"
+
+#: includes/class-backend.php:156
+msgid "Changelog"
+msgstr ""
+
+#: includes/class-backend.php:224
+msgid "Choose the background color for the active tier price, default %s"
+msgstr "Kies achtergrond kleur voor de actieve prijs, standaard %s"
+
+#: includes/class-backend.php:214
+msgid "Choose the color for the active tier price, default %s"
+msgstr "Kies een kleur voor de actieve prijs, standaard %s"
+
+#: includes/class-backend.php:204
+msgid ""
+"Choose the position to show the tiered price table on a single product page."
+msgstr ""
+"Kies de positie voor de plaats om de prijzen tabel te tonen op een product "
+"pagina."
+
+#: includes/class-backend.php:300
+msgid "Community support"
+msgstr ""
+
+#: includes/templates/role-price.php:10
+msgid "Default"
+msgstr "Standaard"
+
+#: includes/class-backend.php:88
+msgid "Disable"
+msgstr "Uitzetten"
+
+#: includes/class-backend.php:158
+msgid "Discussion"
+msgstr "Discussie"
+
+#. Description of the plugin
+msgid ""
+"Encouraging customers to purchase more and increase their order value is not "
+"an easy task though store owners have a variety of methods to do so. "
+"Offering quantity based prices would be one of the most effective and "
+"powerful methods to urge buyers with very few convincing actions needed."
+msgstr ""
+"Klanten aanmoedigen om meer te kopen en hun bestelwaarde te verhogen, is "
+"geen gemakkelijke taak, hoewel winkeleigenaren verschillende methoden hebben "
+"om dit te doen. Het aanbieden van op kwantiteit gebaseerde prijzen zou een "
+"van de meest effectieve en krachtige methoden zijn om kopers aan te sporen "
+"met zeer weinig overtuigende acties die nodig zijn."
+
+#: includes/class-backend.php:182
+msgid "Essential Kit"
+msgstr ""
+
+#: includes/class-backend.php:87
+msgid "Global"
+msgstr "Globaal"
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#: includes/class-backend.php:201
+msgid "No (hide it)"
+msgstr "Nee (niet tonen)"
+
+#: includes/class-backend.php:89
+msgid "Override"
+msgstr "Overschrijven"
+
+#: includes/class-backend.php:191
+msgid "Position"
+msgstr "Positie"
+
+#: includes/class-backend.php:175
+msgid "Premium Version"
+msgstr "Premium versie"
+
+#: includes/class-frontend.php:77
+msgid "Price"
+msgstr "Prijs"
+
+#: includes/class-backend.php:36 includes/class-backend.php:85
+msgid "Price by Quantity"
+msgstr "Prijs per aantal"
+
+#: includes/class-frontend.php:76
+msgid "Quantity"
+msgstr "Aantal"
+
+#: includes/class-backend.php:359 includes/templates/role-price.php:18
+#: includes/templates/role-price.php:41
+msgid "remove"
+msgstr "verwijder"
+
+#: includes/class-backend.php:154
+msgid "Reviews"
+msgstr "Review"
+
+#: includes/class-backend.php:358 includes/templates/role-price.php:35
+msgid ""
+"Set a price using a number (eg. \"10\") or percentage (eg. \"90%\" of "
+"product price)"
+msgstr ""
+"Gebruik een prijs (bijv. 10) of een percentage (bijv. 90% van een product "
+"prijs)"
+
+#: includes/class-backend.php:170 includes/class-backend.php:283
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/class-backend.php:163
+msgid "Settings updated."
+msgstr "Instellingen bijgewerkt."
+
+#: includes/class-backend.php:179
+msgid "Support"
+msgstr ""
+
+#: includes/class-backend.php:151
+msgid ""
+"Thank you for using our plugin! If you are satisfied, please reward it a "
+"full five-star %s rating."
+msgstr ""
+"Bedankt voor het gebruiken van onze plug-in! Als je tevreden bent, beloon "
+"het dan met een volledige %s beoordeling van vijf sterren."
+
+#: includes/class-backend.php:228 includes/templates/role-price.php:23
+msgid "Tiered price"
+msgstr "Staffel prijs"
+
+#: includes/class-backend.php:198
+msgid "Under the add to cart button"
+msgstr "Onder de \"In Winkelwagen\" knop"
+
+#. Plugin Name of the plugin
+msgid "WPC Price by Quantity for WooCommerce (Premium)"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
