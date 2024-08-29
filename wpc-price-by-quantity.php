@@ -3,7 +3,7 @@
 Plugin Name: WPC Price by Quantity for WooCommerce (Premium)
 Plugin URI: https://wpclever.net/
 Description: Offering quantity-based prices would be one of the most effective and powerful methods to urge buyers with very few convincing actions needed.
-Version: 5.1.2
+Version: 5.1.5
 Author: WPClever
 Author URI: https://wpclever.net
 Text Domain: wpc-price-by-quantity
